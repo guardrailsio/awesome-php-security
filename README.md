@@ -32,13 +32,14 @@ Special thanks to: [GuardRails.io](https://github.com/apps/guardrails)
 ## Static Code Analysis
 
 - [phpcs-security-audit](https://github.com/FloeDesignTechnologies/phpcs-security-audit) - phpcs-security-audit is a set of PHP_CodeSniffer rules that finds vulnerabilities and weaknesses related to security in PHP code.
-    - `docker pull guardrails/phpcs-security-audit`
+  - `docker pull guardrails/phpcs-security-audit`
 - [progpilot](https://github.com/designsecurity/progpilot) - A static analyzer for security purposes.
 - [Parse](https://github.com/psecio/parse) - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
 
 ## Vulnerabilities and Security Advisories
 
 - [security-checker](https://github.com/sensiolabs/security-checker) - PHP frontend for security.symfony.com.
+  - `docker pull guardrails/security-checker`
 - [Symfony Security Monitoring](https://security.symfony.com/) - PHP security vulnerabilities monitoring.
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
 
