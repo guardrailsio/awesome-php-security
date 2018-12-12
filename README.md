@@ -71,7 +71,7 @@ Say *hi* on [Twitter](https://twitter.com/s_streichsbier)
 
 ## Inspiration
 
-This awesome list was Inspired by [awesome-nodejs-security](https://github.com/pxlpnk/awesome-ruby-security), [awesome-ruby-security](https://github.com/lirantal/awesome-nodejs-security).
+This awesome list was Inspired by [awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) and [awesome-ruby-security](https://github.com/pxlpnk/awesome-ruby-security).
 
 ## License
 
