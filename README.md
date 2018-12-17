@@ -41,6 +41,7 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [security-checker](https://github.com/sensiolabs/security-checker) - PHP frontend for security.symfony.com.
   - `docker pull guardrails/security-checker`
 - [Symfony Security Monitoring](https://security.symfony.com/) - PHP security vulnerabilities monitoring.
+- [`roave/security-advisories`](https://github.com/Roave/SecurityAdvisories) - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
 - [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
 
