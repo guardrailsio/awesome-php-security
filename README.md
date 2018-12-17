@@ -42,6 +42,7 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
   - `docker pull guardrails/security-checker`
 - [Symfony Security Monitoring](https://security.symfony.com/) - PHP security vulnerabilities monitoring.
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
+- [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
 
 # Educational
 
