@@ -7,7 +7,7 @@ A curated list of awesome PHP Security related resources.
 
 *List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
-Special thanks to: [GuardRails.io](https://github.com/apps/guardrails)
+Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 
 </div>
 
