@@ -54,6 +54,7 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 
 - [Official PHP Security Manual](http://php.net/manual/en/security.php)
 - [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)
+- [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
 
 # Companies
 
