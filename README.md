@@ -57,6 +57,7 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.io/en/latest/)
 - [Security Tips for a PHP Application](https://dev.to/restoreddev/security-tips-for-a-php-application-4e9a)
 - [Awesome-AppSec: PHP-Section](https://github.com/paragonie/awesome-appsec#php)
+- [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
 
 # Companies
 
@@ -64,6 +65,7 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [RIPS](https://www.ripstech.com) - RIPS is the leading security analysis solution for PHP
 - [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing vulnerabilities in your dependencies.
 - [Sqreen](https://sqreen.io) - Automated security for your web apps - real time application security protection.
+- [Paragon Initiative Enterprises](https://paragonie.com) - PHP Security and Cryptography consultants, open source library publishers.
 
 # Contributing
 
