@@ -35,6 +35,7 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
   - `docker pull guardrails/phpcs-security-audit`
 - [progpilot](https://github.com/designsecurity/progpilot) - A static analyzer for security purposes.
 - [Parse](https://github.com/psecio/parse) - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
+- [PHPStan](https://github.com/phpstan/phpstan) - PHPStan focuses on finding errors in your code without actually running it. It catches whole classes of bugs even before you write tests for the code.
 
 ## Vulnerabilities and Security Advisories
 
