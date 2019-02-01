@@ -70,12 +70,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 # Contributing
 
-Found an awesome project, package, article, other type of resources related to PHP Security? Send a pull request!
+Found an awesome project, package, article, other type of resources related to PHP Security? Submit a pull request!
 Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
-
-Say *hi* on [Twitter](https://twitter.com/s_streichsbier)
-
----
 
 ## Inspiration
 
