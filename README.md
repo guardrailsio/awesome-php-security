@@ -11,7 +11,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 </div>
 
-# Table of Contents
+# Contents
 
 - [Tools](#projects)
   - [Web Framework Hardening](#web-framework-hardening)
