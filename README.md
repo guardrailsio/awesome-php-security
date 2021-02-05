@@ -27,6 +27,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Web Framework Hardening
 
+- [Snuffleupagus](https://snuffleupagus.rtfd.io) - Security mondule for PHP7/8, the successsor to [suhosin](http://suhosin.org/stories/index.html).
 - [Secure-Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response.
 
 ## Static Code Analysis
