@@ -39,6 +39,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [progpilot](https://github.com/designsecurity/progpilot) - A static analyzer for security purposes.
 - [Parse](https://github.com/psecio/parse) - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
 - [SonarPHP](https://github.com/SonarSource/sonar-php) from [SonarQube](https://github.com/SonarSource/sonarqube) - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
+- [Snyk Code](https://snyk.io/product/snyk-code/) PHP support (beta) and available in Snyk free tier 
 
 ## Vulnerabilities and Security Advisories
 
@@ -48,6 +49,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
 - [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
+- [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - Package manager scanner with a free tier 
 
 # Educational
 
