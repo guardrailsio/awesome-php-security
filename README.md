@@ -38,6 +38,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
   - `docker pull guardrails/phpcs-security-audit`
 - [progpilot](https://github.com/designsecurity/progpilot) - A static analyzer for security purposes.
 - [Parse](https://github.com/psecio/parse) - The *Parse* scanner is a static scanning tool to review your PHP code for potential security-related issues.
+- [SonarPHP](https://github.com/SonarSource/sonar-php) from [SonarQube](https://github.com/SonarSource/sonarqube) - A static code analyser for PHP language used as an extension for the SonarQube platform (200+ rules, Supports up to PHP 8, Import of unit test and coverage results, Support of custom rules)
 
 ## Vulnerabilities and Security Advisories
 
