@@ -29,6 +29,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [Snuffleupagus](https://snuffleupagus.rtfd.io) - Security mondule for PHP7/8, the successsor to [suhosin](http://suhosin.org/stories/index.html).
 - [Secure-Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response.
+- [DaggerX](https://github.com/thedaggerx/DaggerX) - A high-performance PHP security library for password hashing and encryption, featuring Argon2id, AES-256-GCM/CBC, SHA3-512 key derivation, key rotation, and zero-knowledge design.
 
 ## Static Code Analysis
 
