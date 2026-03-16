@@ -48,6 +48,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Symfony Security Monitoring](https://security.symfony.com/) - PHP security vulnerabilities monitoring.
 - [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
+- [ReleaseRun Composer Health](https://releaserun.com/tools/composer-json-health/) - Paste your composer.json and instantly flag abandoned packages (no Packagist releases in 2+ years) and packages with critical version gaps — helps identify dependencies that may have unpatched security issues.
 - [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - Package manager scanner with a free tier 
 
