@@ -25,6 +25,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 # Tools
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=guardrailsio_awesome-php-security) - See what developers you follow are starring on GitHub. Free.
 ## Web Framework Hardening
 
 - [Snuffleupagus](https://snuffleupagus.rtfd.io) - Security mondule for PHP7/8, the successsor to [suhosin](http://suhosin.org/stories/index.html).
