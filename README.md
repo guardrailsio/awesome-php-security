@@ -50,6 +50,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
 - [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - Package manager scanner with a free tier 
+- [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) - Search public GitHub proof-of-concept repositories by CVE identifier.
 
 # Educational
 
