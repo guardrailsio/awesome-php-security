@@ -49,6 +49,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
 - [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
+- [crafted-php-deobfuscators](https://github.com/rz-x/crafted-php-deobfuscators) - Targeted deobfuscators for complex PHP web shells and malware loaders.
+- [php-zeura-deobfuscator](https://github.com/rz-x/php-zeura-deobfuscator) - AST-based deobfuscator for the Zeura PHP malware family.
+- [php-koru-deobfuscator](https://github.com/rz-x/php-koru-deobfuscator) - Specialized deobfuscator for Koru PHP malware payloads.
+
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - Package manager scanner with a free tier 
 
 # Educational
