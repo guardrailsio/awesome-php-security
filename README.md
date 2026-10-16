@@ -29,6 +29,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [Snuffleupagus](https://snuffleupagus.rtfd.io) - Security mondule for PHP7/8, the successsor to [suhosin](http://suhosin.org/stories/index.html).
 - [Secure-Headers](https://github.com/BePsvPT/secure-headers) - Add security related headers to HTTP response.
+- [guard-core-php](https://github.com/Guard-Core/guard-core-php) - Application-layer API security engine for PHP with IP filtering, rate limiting with automatic bans and attack pattern detection.
 
 ## Static Code Analysis
 
