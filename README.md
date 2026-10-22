@@ -49,7 +49,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [roave/security-advisories](https://github.com/Roave/SecurityAdvisories) - Add this dependency to disallow known/vulnerable installation of packages directly through `composer update`
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
 - [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
-- [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - Package manager scanner with a free tier 
+- [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - Package manager scanner with a free tier
+- [PHP2Shell Checker](https://php2shellchecker.io/) - Free web check that reports the PHP version a domain exposes and flags whether it is below the fixed release for CVE-2026-109618 and CVE-2026-109619. 
 
 # Educational
 
