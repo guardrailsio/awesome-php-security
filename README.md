@@ -50,6 +50,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [Security Advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories.
 - [php-malware-detector](https://github.com/ollyxar/php-malware-detector) - PHP malware detector
 - [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - Package manager scanner with a free tier 
+- [phpatchscan](https://github.com/PHPatch/phpatchscan) - External scanner that checks a deployed site's PHP runtime against the patched releases for known critical PHP CVEs (starting with php2shell, CVE-2026-109618 / CVE-2026-109619). Passive fingerprinting only, no exploit probes.
 
 # Educational
 
